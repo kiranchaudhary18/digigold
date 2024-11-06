@@ -1,0 +1,468 @@
+.top{
+    background-color:white;
+    height: 10vh;
+    margin-top: -1vh;
+}.text{
+    display: flex;
+    flex-direction: row;
+    column-gap: 3vw;
+    margin-left: 47vw;
+    margin-top: -5vh;
+    font-size: 1.2vw;
+    font-weight: 550;
+    color: brown;
+}.login{
+    color:white;
+    background-color: brown;
+    width: 4vw;
+    height: 4vh;
+    font-size: 1.4vw;
+    margin-left: 93.5vw;
+    margin-top: -6.3vh;
+    border-radius: 1vh;
+}.middle{
+    background-color: brown;
+    height: 87.5vh;
+    opacity: 80%;
+}
+.name{
+    background-color:white;
+    border-radius: 15px;
+    height: 65vh;
+    width: 27vw;
+    margin-left: 60vw;
+    margin-top: -36vw;
+}.box16{
+    background-color:rgb(191, 19, 19);
+    height: .3vh;
+    width: 11vw;
+    border-radius: 10px;
+    margin-left: 1.5vw;
+    margin-top: -2vh;
+}
+.box17{
+    background-color:rgb(213, 219, 219);
+    height: .3vh;
+    width: 13vw;
+    border-radius: 10px;
+    margin-left: 12.4vw;
+    margin-top: -.3vh;
+}.name1{
+    background-color: rgb(214, 214, 203);
+    height: 23vh;
+    width: 24vw;
+    margin-left: 1.5vw;
+    margin-top: 4vh;
+}.box19{
+    background-color:brown;
+    height: .3vh;
+    width: 8vw;
+    border-radius: 10px;
+    margin-left: 12.1vw;
+    margin-top: -.3vh;
+}.box20{
+    background-color:brown;
+    height: .3vh;
+    width: 6vw;
+    border-radius: 10px;
+    margin-left: 2vw;
+    margin-top: -.3vh;
+}.buy2{
+    color:white;
+    margin-top:9vh ;
+    margin-left: 6vw;
+    width: 9vw;
+    height: 5vh;
+    border-radius: 15px;
+    background-color: brown;
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: 1vh;
+}
+
+
+
+.box{
+    background-color:white;
+    height: .7vh;
+    width: 4vw;
+    border-radius: 10px;
+    margin-left: 11vw;
+    margin-top: 6vh;
+}
+.text1{
+    color:white;
+    margin-left: 11vw;
+    margin-top: vh;
+    font-size: 2.5vw;
+}.text2{
+    color:white;
+    margin-left: 11vw;
+    margin-top: -3.5vh;
+}.box2{
+    background-color:white;
+    height: 6vh;
+    width: 15vw;
+    margin-left: 11vw;
+    border-radius: 15px;
+}.box3{
+    background-color: white;
+    height: 6vh;
+    width: 7vw;
+    margin-left: 27vw;
+    margin-top: -8vh;
+    border-radius: 15px;
+}.img{
+    margin-left: 10vw;
+    margin-top: 10vh;
+}.box4{
+    background-color:brown;
+    height: .7vh;
+    width: 4vw;
+    border-radius: 10px;
+    margin-left: 49vw;
+    margin-top: -63vh;
+}.text4{
+    font-size: 7vh;
+    margin-left: 49vw;
+    margin-top: -px;
+    color: brown;
+    
+}.small{
+    color:brown;
+    margin-left: 49vw;
+    font-size: 2.8vh;
+    margin-top: -5vh;
+}
+    
+
+
+.shadow1{
+    background-color: rgb(216, 218, 218);
+    border-radius: 2vh;
+    height: 16vh;
+    width: 8vw;
+    margin-left: 49vw;
+    opacity: 60%;
+}
+.shadow2{
+    background-color: rgb(216, 218, 218);
+    border-radius: 2vh;
+    height: 16vh;
+    width: 8vw;
+    margin-left: 58vw;
+    margin-top: -16vh;
+    opacity: 60%;
+}
+.shadow3{
+    background-color: rgb(216, 218, 218);
+    border-radius: 2vh;
+    height: 16vh;
+    width: 8vw;
+    margin-left: 67vw;
+    margin-top: -16vh;
+    opacity: 60%;
+}
+.shadow4{
+    background-color: rgb(216, 218, 218);
+    border-radius: 2vh;
+    height: 16vh;
+    width: 8vw;
+    margin-left: 76vw;
+    margin-top: -16vh;
+    opacity: 60%;
+}.middle2{
+    background-color: rgb(216, 218, 218);
+    height: 25vh;
+    margin-top: 20vh;
+    padding-top: 8vh;
+}.box5{
+    background-color:brown;
+    height: .7vh;
+    width: 4vw;
+    border-radius: 10px;
+    margin-left: 11vw;
+    
+}.both{
+    display: flex;
+    flex-direction: row;
+    margin-top: -20vh;
+}.image{
+    height: 5vh;
+}.gold2{
+    margin-top: 78vh;margin-left: 10vw;
+}.box7{
+    background-color:brown;
+    height: .7vh;
+    width: 4vw;
+    border-radius: 10px;
+    margin-left: 57vw;
+    margin-top: -65vh;
+}
+
+.middle3{
+    background-color: brown;
+    opacity: 70%;
+    height: 75vh;
+    margin-top: 25vh;
+    padding-top: 12vh;
+    
+}.box8{
+    background-color:white;
+    height: .7vh;
+    width: 4vw;
+    border-radius: 10px;
+    margin-left: 10vw;
+    
+    
+}.flex{
+    display: flex;
+    flex-direction: row;
+    column-gap: 47vh;
+    margin-left: 10vw;
+    margin-top: 7vh;
+}
+.flex1{
+    display: flex;
+    flex-direction: row;
+    column-gap: 47vh;
+    margin-left: 10vw;
+    margin-top: 17vh;
+}
+.box9{
+    background-color:brown;
+    height: .7vh;
+    width: 4vw;
+    border-radius: 10px;
+    margin-left: 10vw;
+    margin-top: 10vh;
+}.flex3{
+  display: flex;
+  flex-direction: row;
+  margin-left: 14vw;
+  column-gap: 10vw;
+}.flex4{
+    display: flex;
+    flex-direction: row;
+    color:brown;
+    margin-left: 14vw;
+    column-gap: 11vw;
+}.buy1{
+  background-color:brown;
+  opacity: 70%;
+  height: 5vh;
+  width: 9vw;
+  border-radius:2vh ;
+
+}.flex5{
+    display: flex;
+    flex-direction: row;
+    column-gap: 11.5vw;
+    margin-left: 14vw;
+}
+.last{
+    background-color: rgb(216, 218, 218);
+    height: 110vh;
+    width: 203vh;
+    margin-top: 15vh;
+    padding-top: 10vh;
+}.box10{
+    background-color:brown;
+    height: .7vh;
+    width: 4vw;
+    border-radius: 10px;
+    margin-left: 10vw;
+
+
+}
+.box11{
+    background-color:brown;
+    height: .7vh;
+    width: 4vw;
+    border-radius: 10px;
+    margin-left: 10vw;
+    margin-top: 10vh;
+}
+.flex6{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10vw;
+    column-gap: 12vw;
+}
+.flex7{
+    display: flex;
+    flex-direction: row;
+    column-gap: vw;
+}
+
+
+
+.first{
+    background-color: brown;
+    opacity: 90%;
+    width: 16vw;
+    height: 8vh;
+    margin-left: 10vw;
+    margin-top: -.4vh;
+    border-radius: 0px 0px 15px 15px ;
+}
+.second{
+    background-color:rgb(198, 198, 11);
+    opacity: 90%;
+    width: 16vw;
+    height: 8vh;
+    margin-left: 4vw;
+    margin-top: -.4vh;
+    border-radius: 0px 0px 15px 15px ;
+}
+    
+    
+.third{
+    background-color: brown;
+    opacity: 90%;
+    width: 16vw;
+    height: 8vh;
+    margin-left: 4vw;
+    margin-top: -.4vh;
+    border-radius: 0px 0px 15px 15px ;
+}
+    
+    
+.fourth{
+    background-color: rgb(198, 198, 11);
+    opacity: 90%;
+    width: 16vw;
+    height: 8vh;
+    margin-left: 4vw;
+    margin-top: -.4vh;
+    border-radius: 0px 0px 15px 15px ;
+}.app{
+    margin-left: 10vw;
+    margin-top: -23vh;
+
+}
+.last3{
+    background-color:#EDD4D1;
+    height: 100vh;
+    margin-top: -18vh;
+    width: 97.5vw;
+    
+}.box12{
+    background-color:#E7BA48;
+    opacity: 70%;
+    height: .5vh;
+    width: 3vw;
+    border-radius: 10px;
+    margin-left: 36vw;
+    margin-top: -2vh;
+}
+.box13{
+    background-color:#E7BA48;
+    opacity: 70%;
+    height: .5vh;
+    width: 3vw;
+    border-radius: 10px;
+    margin-left: 49.5vw;
+    margin-top: -2vh;
+}
+.box14{
+    background-color:#E7BA48;
+    opacity: 70%;
+    height: .5vh;
+    width: 3vw;
+    border-radius: 10px;
+    margin-left: 62.5vw;
+    margin-top: -2vh;
+}.li{
+    color:brown;
+    margin-left: 33vw;
+    line-height: 4vh;
+    font-size: 1.2em;
+}
+.li1{
+    color:brown;
+    margin-left: 47vw;
+    margin-top: -34vh;
+    line-height: 4vh;
+    font-size: 1.2em;
+}
+.li2{
+    color:brown;
+    margin-left: 60vw;
+    margin-top: -19vh;
+    line-height: 4vh;
+    font-size: 1.2em;
+}
+.firstc{
+    background-color: brown;
+    opacity: 70%;
+    height: 4vh;
+    width: 2vw;
+    border-radius: 50%;
+    margin-left: 82vw;
+    margin-top: -34vh;
+
+}
+.secondc{
+    background-color: brown;
+    opacity: 70%;
+    height: 4vh;
+    width: 2vw;
+    border-radius: 50%;
+    margin-left: 82vw;
+    margin-top: 1vh;
+
+}
+.thirdc{
+    background-color: brown;
+    opacity: 70%;
+    height: 4vh;
+    width: 2vw;
+    border-radius: 50%;
+    margin-left: 82vw;
+    margin-top: 1vh;
+
+}
+.fourthc{
+    background-color: brown;
+    opacity: 70%;
+    height: 4vh;
+    width: 2vw;
+    border-radius: 50%;
+    margin-left: 82vw;
+    margin-top: 1vh;
+
+}
+
+.fifthc{
+    background-color: brown;
+    opacity: 70%;
+    height: 4vh;
+    width: 2vw;
+    border-radius: 50%;
+    margin-left: 82vw;
+    margin-top: 1vh;
+}.sixc{
+    background-color: brown;
+    opacity: 70%;
+    height: 4vh;
+    width: 2vw;
+    border-radius: 50%;
+    margin-left: 82vw;
+    margin-top: 1vh;
+
+}
+.box15{
+    background-color:#E7BA48;
+    opacity: 70%;
+    height: .3vh;
+    width: 65vw;
+    border-radius: 10px;
+    margin-left: 10vw;
+    margin-top: 16vh;
+}
+
+    
+    
+    
+    
